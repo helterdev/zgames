@@ -1,0 +1,7 @@
+.background{
+    min-height: 100svh;
+    width: 100%;
+    z-index: -999;
+    position: absolute;
+    background-position: center;
+}
